@@ -3,12 +3,13 @@
 position: absolute;
 width: 420px;
 height: 860px;
-left: 300px;
+left: 800px;
 color:white;
 background: linear-gradient(#628785,black);
 }
 #leftmenu
 {
+left: 500px;
 color:white;
 position: absolute;
 width: 300px;
